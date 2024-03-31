@@ -9,5 +9,5 @@
 python .\pmake.py <execuable_file_name>
 ```
 ## Sample
-![image] (GIF_file/pmake_demo.gif)
+! [image] (GIF_file/pmake_demo.gif)
 
