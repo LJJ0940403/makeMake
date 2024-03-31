@@ -10,4 +10,4 @@ python .\pmake.py <execuable_file_name>
 ```
 ## Sample
 
-! [sample] (https://github.com/LJJ0940403/pmake/blob/main/GIF_file/pmake_demo.gif)
+! [image] (https://github.com/LJJ0940403/pmake/blob/main/GIF_file/pmake_demo.gif)
