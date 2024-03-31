@@ -6,8 +6,8 @@
 
 ## Usage
 ```shell
-python pmake <execuable_file_name>
+python .\pmake.py <execuable_file_name>
 ```
 ## Sample
-![] (GIF_file/pmake_demo.gif)
+![image] (GIF_file/pmake_demo.gif)
 
