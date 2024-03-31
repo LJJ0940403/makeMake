@@ -5,7 +5,7 @@
 - Only support makefile for cpp
 
 ## Usage
-bash```
+```shell
 python pmake <execuable_file_name>
 ```
 ## Sample
